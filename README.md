@@ -1,19 +1,32 @@
 # Python Learning Basics
 
-This repository contains my beginner Python practice projects.
+This repository contains my beginner Python practice code.
 
-I created this repo while learning Python step by step.
+I am currently learning Python step by step and using this repo to practice what I learn.
 
-## What I practiced:
-- Variables and data types
-- Strings and string manipulation
-- Conditional statements (if / else)
-- Basic problem solving
+---
 
-## Projects included:
-- Data types practice
-- String manipulation examples
-- Ticket booking system (using conditions)
+## Topics I have learned so far:
+
+- Variables and Data Types
+- Strings and String Manipulation
+- Type Conversion
+- Conditional Statements (if / else)
+- Basic Problem Solving
+
+---
+
+## Practice Files:
+
+- Data types examples
+- String practice
+- Employee information formatting
+- Ticket booking system
+
+---
 
 ## About this repo:
-This is my learning journey in programming. I will keep updating it as I learn new topics.
+
+This is my learning space where I upload small exercises and beginner projects while I improve my Python skills.
+
+I will keep updating it as I learn more topics.
