@@ -1,2 +1,11 @@
 # Python_learning_basics
-Python basics and small practice projects
+
+This repository contains my beginner Python practice codes.
+
+I am learning:
+- Variables and data types
+- String manipulation
+- Conditional statements
+- Basic programming concepts
+
+These are simple exercises as part of my learning journey.
