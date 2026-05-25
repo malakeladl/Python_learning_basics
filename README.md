@@ -13,6 +13,7 @@ I am currently learning Python step by step and using this repo to practice what
 - Type Conversion
 - Conditional Statements (if / else)
 - Basic Problem Solving
+- Functions (def, parameters, return)
 
 ---
 
@@ -22,11 +23,19 @@ I am currently learning Python step by step and using this repo to practice what
 - String practice
 - Employee information formatting
 - Ticket booking system
+- Discount calculator function
 
 ---
 
 ## About this repo:
 
 This is my learning space where I upload small exercises and beginner projects while I improve my Python skills.
+---
+
+## Goal:
+
+To improve my Python skills through consistent work and small projects
+---
 
 I will keep updating it as I learn more topics.
+
