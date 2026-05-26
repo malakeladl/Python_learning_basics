@@ -24,6 +24,7 @@ I am currently learning Python step by step and using this repo to practice what
 - Employee information formatting
 - Ticket booking system
 - Discount calculator function
+- Caesar Cipher (Encryption and Decryption)
 
 ---
 
